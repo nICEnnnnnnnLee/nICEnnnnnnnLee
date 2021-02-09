@@ -24,7 +24,7 @@
         },{
             "type": "render_template",
             "template_path":"README_template.md",
-            "output":"data/README.md"
+            "output":"./README.md"
         }
     ]
 }
