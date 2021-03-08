@@ -6,11 +6,22 @@
         <br/> 美好的世界由我们创造!  
 </p>
 
++ Latest blog posts  
+
+    + [Python 批量删除B站动态](https://nicelee.top/blog/2021/03/07/python-delete-bilibili-dynamics/)
+
+    + [一种利用Github notification达到邮件通知目的的思路及其Python实现](https://nicelee.top/blog/2021/03/01/issue-as-notification/)
+
+    + [Python 关于requests的DNS和SNI设置](https://nicelee.top/blog/2021/02/27/python-dns-sni/)
+
+    + [杂七杂八 啊这。。。](https://nicelee.top/blog/2021/02/24/something-about-nothing/)
+
+
 
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost) 
-    ![184 stars](https://img.shields.io/badge/Stars-184-green)
+    ![186 stars](https://img.shields.io/badge/Stars-186-green)
     ![21 forks](https://img.shields.io/badge/Forks-21-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
@@ -28,7 +39,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![364 stars](https://img.shields.io/badge/Stars-364-green)
+    ![365 stars](https://img.shields.io/badge/Stars-365-green)
     ![56 forks](https://img.shields.io/badge/Forks-56-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
@@ -55,7 +66,7 @@
         <a href="https://github.com/nICEnnnnnnnLee/BilibiliDown" target="_blank">nICEnnnnnnnLee/BilibiliDown</a>
       </strong>  的star历史图
   <br>
-  <img src="https://raw.githubusercontent.com/ButterAndButterfly/GithubTools/master/data/stars_history.jpg" width="350px"></img>    
+  <img src="https://raw.githubusercontent.com/nICEnnnnnnnLee/nICEnnnnnnnLee/master/data/stars_history.jpg" width="350px"></img>    
 </p>
 
 <p align="right">
