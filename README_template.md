@@ -6,6 +6,11 @@
         <br/> 美好的世界由我们创造!  
 </p>
 
++ Latest blog posts  
+{% for title, link in template_inputs.latest_posts %}
+    + [{{ title }}]({{ link }})
+{% endfor %}
+
 {% for name, target in template_inputs.top_star_repos.items() %}
 + [{{ target.name }}](https://github.com/{{ target.name }}) STAR TOP {{ target.topCount }}
     {% for repo in target.result %}
@@ -22,7 +27,7 @@
         <a href="https://github.com/nICEnnnnnnnLee/BilibiliDown" target="_blank">nICEnnnnnnnLee/BilibiliDown</a>
       </strong>  的star历史图
   <br>
-  <img src="https://raw.githubusercontent.com/ButterAndButterfly/GithubTools/master/{{ template_inputs.stars_history['nICEnnnnnnnLee/BilibiliDown'].output }}" width="350px"></img>    
+  <img src="https://raw.githubusercontent.com/nICEnnnnnnnLee/nICEnnnnnnnLee/master/{{ template_inputs.stars_history['nICEnnnnnnnLee/BilibiliDown'].output }}" width="350px"></img>    
 </p>
 
 <p align="right">

@@ -2,6 +2,8 @@
     "token":"token",
     "tasks":[
         {
+            "type": "my_task_list_latest_posts"
+        },{
             "type": "get_total_stars_and_forks",
             "name":"nICEnnnnnnnLee",
             "output":"data/total.json"

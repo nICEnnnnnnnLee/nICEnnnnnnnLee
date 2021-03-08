@@ -5,19 +5,8 @@ import json, os
 from functools import wraps
 from jinja2 import FileSystemLoader,Environment
 
-'''
-注解,用于优雅地扩展任务类型
-'''
-taskSolver = {}
-def task(type: str, description = "暂无描述"):
-    assert task != None
-    def decoratedFunc(func):
-        @wraps(func)      
-        def run(*args, **kwargs):
-            return func(*args, **kwargs)
-        taskSolver[type] = run
-        return run
-    return decoratedFunc
+from globals import task, taskSolver, template_inputs
+import self_design
 
 def checkDir(file: str):
     '''
@@ -93,7 +82,6 @@ def render(template_path: str, output: str, **kwargs):
     with open(output, 'w', encoding='utf-8') as f:
         f.write(rendered_content)
     
-template_inputs = {}  
 if __name__ == "__main__":
     #os.environ['MY_GITHUB_TOKEN'] = token
     print('sys.argv: ', sys.argv)
