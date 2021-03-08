@@ -7,14 +7,15 @@
 </p>
 
 + Latest blog posts  
-{% for title, link in template_inputs.latest_posts %}
-    + [{{ title }}]({{ link }})
+{% for title, link, date in template_inputs.latest_posts %}
+    + [{{ title }}]({{ link }})   
+    :point_up_2:{{ date }}
 {% endfor %}
 
 {% for name, target in template_inputs.top_star_repos.items() %}
 + [{{ target.name }}](https://github.com/{{ target.name }}) STAR TOP {{ target.topCount }}
     {% for repo in target.result %}
-    + [{{ repo.name }}](https://github.com/{{ target.name }}/{{ repo.name }}) 
+    + [{{ repo.name }}](https://github.com/{{ target.name }}/{{ repo.name }})   
     ![{{ repo.stargazerCount }} stars](https://img.shields.io/badge/Stars-{{ repo.stargazerCount }}-green)
     ![{{ repo.forkCount }} forks](https://img.shields.io/badge/Forks-{{ repo.forkCount }}-green)  
     {{ repo.description }}
