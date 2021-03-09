@@ -25,7 +25,7 @@
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost)   
-    ![186 stars](https://img.shields.io/badge/Stars-186-green)
+    ![188 stars](https://img.shields.io/badge/Stars-188-green)
     ![21 forks](https://img.shields.io/badge/Forks-21-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
