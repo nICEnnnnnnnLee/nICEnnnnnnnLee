@@ -8,24 +8,24 @@
 
 + Latest blog posts  
 
+    + [备忘录 记一次CentOS下的Python3安装](https://nicelee.top/blog/2021/03/26/cenos-python3-ssl/)   
+    :point_up_2:2021-03-26
+
+    + [备忘录 Windows下使用OpenSSL 生成自签发证书](https://nicelee.top/blog/2021/03/26/win-openssl-cerl/)   
+    :point_up_2:2021-03-26
+
     + [Python 一种基于SNI的HTTPS代理](https://nicelee.top/blog/2021/03/19/python-https-sni-proxy/)   
     :point_up_2:2021-03-19
 
     + [杂七杂八 不知该说些啥但就是不吐不快](https://nicelee.top/blog/2021/03/11/something-about-something/)   
     :point_up_2:2021-03-11
 
-    + [备忘录 如何判断Android手机的CPU架构类型](https://nicelee.top/blog/2021/03/10/android-device-type/)   
-    :point_up_2:2021-03-10
-
-    + [Python 批量删除B站动态](https://nicelee.top/blog/2021/03/07/python-delete-bilibili-dynamics/)   
-    :point_up_2:2021-03-07
-
 
 
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost)   
-    ![239 stars](https://img.shields.io/badge/Stars-239-green)
+    ![241 stars](https://img.shields.io/badge/Stars-241-green)
     ![24 forks](https://img.shields.io/badge/Forks-24-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
