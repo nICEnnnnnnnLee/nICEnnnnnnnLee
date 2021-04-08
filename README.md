@@ -8,24 +8,24 @@
 
 + Latest blog posts  
 
+    + [备忘录 关于可用的DNS over HTTPS公共服务器](https://nicelee.top/blog/2021/04/07/dns-voer-https/)   
+    :point_up_2:2021-04-07
+
+    + [备忘录 关于IP的地域判断(是否CN)](https://nicelee.top/blog/2021/04/06/cn-ip/)   
+    :point_up_2:2021-04-06
+
+    + [Python 一种自动判断类型的SNI/HTTP/HTTPS代理](https://nicelee.top/blog/2021/03/27/python-proxy/)   
+    :point_up_2:2021-03-27
+
     + [备忘录 记一次CentOS下的Python3安装](https://nicelee.top/blog/2021/03/26/cenos-python3-ssl/)   
     :point_up_2:2021-03-26
-
-    + [备忘录 Windows下使用OpenSSL 生成自签发证书](https://nicelee.top/blog/2021/03/26/win-openssl-cerl/)   
-    :point_up_2:2021-03-26
-
-    + [Python 一种基于SNI的HTTPS代理](https://nicelee.top/blog/2021/03/19/python-https-sni-proxy/)   
-    :point_up_2:2021-03-19
-
-    + [杂七杂八 不知该说些啥但就是不吐不快](https://nicelee.top/blog/2021/03/11/something-about-something/)   
-    :point_up_2:2021-03-11
 
 
 
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost)   
-    ![254 stars](https://img.shields.io/badge/Stars-254-green)
+    ![255 stars](https://img.shields.io/badge/Stars-255-green)
     ![28 forks](https://img.shields.io/badge/Forks-28-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
@@ -43,17 +43,17 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![406 stars](https://img.shields.io/badge/Stars-406-green)
+    ![408 stars](https://img.shields.io/badge/Stars-408-green)
     ![60 forks](https://img.shields.io/badge/Forks-60-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
-    ![201 stars](https://img.shields.io/badge/Stars-201-green)
+    ![200 stars](https://img.shields.io/badge/Stars-200-green)
     ![39 forks](https://img.shields.io/badge/Forks-39-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder)   
-    ![69 stars](https://img.shields.io/badge/Stars-69-green)
+    ![68 stars](https://img.shields.io/badge/Stars-68-green)
     ![10 forks](https://img.shields.io/badge/Forks-10-green)  
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
