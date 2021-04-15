@@ -25,7 +25,7 @@
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost)   
-    ![274 stars](https://img.shields.io/badge/Stars-274-green)
+    ![279 stars](https://img.shields.io/badge/Stars-279-green)
     ![28 forks](https://img.shields.io/badge/Forks-28-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
@@ -58,7 +58,7 @@
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
     + [AcFunDown](https://github.com/nICEnnnnnnnLee/AcFunDown)   
-    ![31 stars](https://img.shields.io/badge/Stars-31-green)
+    ![30 stars](https://img.shields.io/badge/Stars-30-green)
     ![4 forks](https://img.shields.io/badge/Forks-4-green)  
     包含PC端UI界面的A站 视频下载器。支持收藏夹、UP主视频批量下载 😳仅供交流学习使用喔
     
