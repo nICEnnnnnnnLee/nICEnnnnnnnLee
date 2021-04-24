@@ -43,22 +43,22 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![426 stars](https://img.shields.io/badge/Stars-426-green)
+    ![427 stars](https://img.shields.io/badge/Stars-427-green)
     ![63 forks](https://img.shields.io/badge/Forks-63-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
-    ![208 stars](https://img.shields.io/badge/Stars-208-green)
+    ![209 stars](https://img.shields.io/badge/Stars-209-green)
     ![41 forks](https://img.shields.io/badge/Forks-41-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder)   
-    ![76 stars](https://img.shields.io/badge/Stars-76-green)
+    ![77 stars](https://img.shields.io/badge/Stars-77-green)
     ![13 forks](https://img.shields.io/badge/Forks-13-green)  
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
     + [AcFunDown](https://github.com/nICEnnnnnnnLee/AcFunDown)   
-    ![30 stars](https://img.shields.io/badge/Stars-30-green)
+    ![31 stars](https://img.shields.io/badge/Stars-31-green)
     ![4 forks](https://img.shields.io/badge/Forks-4-green)  
     包含PC端UI界面的A站 视频下载器。支持收藏夹、UP主视频批量下载 😳仅供交流学习使用喔
     
