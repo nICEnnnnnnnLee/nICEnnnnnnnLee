@@ -8,29 +8,33 @@
 
 + Latest blog posts  
 
-    + [Python 批量删除B站动态](https://nicelee.top/blog/2021/03/07/python-delete-bilibili-dynamics/)
+    + [Python 记一次针对图文混搭反爬的文本数据采集处理](https://nicelee.top/blog/2021/07/29/python-something-interesting-about-ocr/)   
+    :point_up_2:2021-07-29
 
-    + [一种利用Github notification达到邮件通知目的的思路及其Python实现](https://nicelee.top/blog/2021/03/01/issue-as-notification/)
+    + [备忘录 关于可用的DNS over HTTPS公共服务器](https://nicelee.top/blog/2021/04/07/dns-over-https/)   
+    :point_up_2:2021-04-07
 
-    + [Python 关于requests的DNS和SNI设置](https://nicelee.top/blog/2021/02/27/python-dns-sni/)
+    + [备忘录 关于IP的地域判断(是否CN)](https://nicelee.top/blog/2021/04/06/cn-ip/)   
+    :point_up_2:2021-04-06
 
-    + [杂七杂八 啊这。。。](https://nicelee.top/blog/2021/02/24/something-about-nothing/)
+    + [Python 一种自动判断类型的SNI/HTTP/HTTPS代理](https://nicelee.top/blog/2021/03/27/python-proxy/)   
+    :point_up_2:2021-03-27
 
 
 
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
-    + [GithubHost](https://github.com/ButterAndButterfly/GithubHost) 
-    ![186 stars](https://img.shields.io/badge/Stars-186-green)
-    ![21 forks](https://img.shields.io/badge/Forks-21-green)  
+    + [GithubHost](https://github.com/ButterAndButterfly/GithubHost)   
+    ![331 stars](https://img.shields.io/badge/Stars-331-green)
+    ![29 forks](https://img.shields.io/badge/Forks-29-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
-    + [T-VideoDownloader](https://github.com/ButterAndButterfly/T-VideoDownloader) 
+    + [T-VideoDownloader](https://github.com/ButterAndButterfly/T-VideoDownloader)   
     ![15 stars](https://img.shields.io/badge/Stars-15-green)
     ![1 forks](https://img.shields.io/badge/Forks-1-green)  
     Tiny-VideoDownloader 专注于短视频批量下载，暂只支持快手
     
-    + [H-Breaker](https://github.com/ButterAndButterfly/H-Breaker) 
+    + [H-Breaker](https://github.com/ButterAndButterfly/H-Breaker)   
     ![2 stars](https://img.shields.io/badge/Stars-2-green)
     ![0 forks](https://img.shields.io/badge/Forks-0-green)  
     Head-Breaker 文件头破坏者，用于简单加密文件头/尾部
@@ -38,23 +42,23 @@
 
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
-    + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) 
-    ![365 stars](https://img.shields.io/badge/Stars-365-green)
-    ![56 forks](https://img.shields.io/badge/Forks-56-green)  
+    + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
+    ![499 stars](https://img.shields.io/badge/Stars-499-green)
+    ![71 forks](https://img.shields.io/badge/Forks-71-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
-    + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder) 
-    ![193 stars](https://img.shields.io/badge/Stars-193-green)
-    ![34 forks](https://img.shields.io/badge/Forks-34-green)  
+    + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
+    ![239 stars](https://img.shields.io/badge/Stars-239-green)
+    ![41 forks](https://img.shields.io/badge/Forks-41-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行
     
-    + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) 
-    ![64 stars](https://img.shields.io/badge/Stars-64-green)
-    ![9 forks](https://img.shields.io/badge/Forks-9-green)  
+    + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder)   
+    ![89 stars](https://img.shields.io/badge/Stars-89-green)
+    ![14 forks](https://img.shields.io/badge/Forks-14-green)  
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
-    + [AcFunDown](https://github.com/nICEnnnnnnnLee/AcFunDown) 
-    ![31 stars](https://img.shields.io/badge/Stars-31-green)
+    + [AcFunDown](https://github.com/nICEnnnnnnnLee/AcFunDown)   
+    ![35 stars](https://img.shields.io/badge/Stars-35-green)
     ![4 forks](https://img.shields.io/badge/Forks-4-green)  
     包含PC端UI界面的A站 视频下载器。支持收藏夹、UP主视频批量下载 😳仅供交流学习使用喔
     
