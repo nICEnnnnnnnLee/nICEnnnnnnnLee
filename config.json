@@ -1,5 +1,5 @@
 {
-    "token":"token",
+    "token":"", 
     "tasks":[
         {
             "type": "my_task_list_latest_posts"
