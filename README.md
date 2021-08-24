@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [使用CF-workers打造私人加密DNS](https://nicelee.top/blog/2021/08/22/cloudflare-workers-doh-proxy/)   
+    :point_up_2:2021-08-22
+
     + [Python 换脸视频的简单实现](https://nicelee.top/blog/2021/08/20/python-face-swap-in-video/)   
     :point_up_2:2021-08-20
 
@@ -16,9 +19,6 @@
 
     + [备忘录 关于可用的DNS over HTTPS公共服务器](https://nicelee.top/blog/2021/04/07/dns-over-https/)   
     :point_up_2:2021-04-07
-
-    + [备忘录 关于IP的地域判断(是否CN)](https://nicelee.top/blog/2021/04/06/cn-ip/)   
-    :point_up_2:2021-04-06
 
 
 
@@ -44,7 +44,7 @@
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
     ![523 stars](https://img.shields.io/badge/Stars-523-green)
-    ![73 forks](https://img.shields.io/badge/Forks-73-green)  
+    ![74 forks](https://img.shields.io/badge/Forks-74-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
