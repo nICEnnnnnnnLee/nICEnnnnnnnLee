@@ -8,8 +8,8 @@
 
 + Latest blog posts  
 
-    + [使用CF-workers反代Github](https://nicelee.top/blog/2021/08/24/cloudflare-workers-github-reverse-proxy/)   
-    :point_up_2:2021-08-24
+    + [使用CF-workers代理Github](https://nicelee.top/blog/2021/08/25/cloudflare-workers-github-proxy/)   
+    :point_up_2:2021-08-25
 
     + [备忘录 freenom注册免费域名要点](https://nicelee.top/blog/2021/08/23/freenom-domain/)   
     :point_up_2:2021-08-23
@@ -25,7 +25,7 @@
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost)   
-    ![340 stars](https://img.shields.io/badge/Stars-340-green)
+    ![341 stars](https://img.shields.io/badge/Stars-341-green)
     ![31 forks](https://img.shields.io/badge/Forks-31-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
