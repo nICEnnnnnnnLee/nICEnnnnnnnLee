@@ -8,17 +8,17 @@
 
 + Latest blog posts  
 
+    + [使用CF-workers反代Github](https://nicelee.top/blog/2021/08/24/cloudflare-workers-github-reverse-proxy/)   
+    :point_up_2:2021-08-24
+
+    + [备忘录 freenom注册免费域名要点](https://nicelee.top/blog/2021/08/23/freenom-domain/)   
+    :point_up_2:2021-08-23
+
+    + [使用CF-workers搭建短网址服务](https://nicelee.top/blog/2021/08/23/cloudflare-workers-short-url/)   
+    :point_up_2:2021-08-23
+
     + [使用CF-workers打造私人加密DNS](https://nicelee.top/blog/2021/08/22/cloudflare-workers-doh-proxy/)   
     :point_up_2:2021-08-22
-
-    + [Python 换脸视频的简单实现](https://nicelee.top/blog/2021/08/20/python-face-swap-in-video/)   
-    :point_up_2:2021-08-20
-
-    + [Python 记一次针对图文混搭反爬的文本数据采集处理](https://nicelee.top/blog/2021/07/29/python-something-interesting-about-ocr/)   
-    :point_up_2:2021-07-29
-
-    + [备忘录 关于可用的DNS over HTTPS公共服务器](https://nicelee.top/blog/2021/04/07/dns-over-https/)   
-    :point_up_2:2021-04-07
 
 
 
@@ -43,12 +43,12 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![523 stars](https://img.shields.io/badge/Stars-523-green)
+    ![525 stars](https://img.shields.io/badge/Stars-525-green)
     ![75 forks](https://img.shields.io/badge/Forks-75-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
-    ![251 stars](https://img.shields.io/badge/Stars-251-green)
+    ![254 stars](https://img.shields.io/badge/Stars-254-green)
     ![42 forks](https://img.shields.io/badge/Forks-42-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行
     
