@@ -8,17 +8,17 @@
 
 + Latest blog posts  
 
+    + [【资源】关于免费的域名邮箱托管](https://nicelee.top/blog/2021/09/07/email-host/)   
+    :point_up_2:2021-09-07
+
+    + [【工具】关于邮箱app](https://nicelee.top/blog/2021/09/07/email-app/)   
+    :point_up_2:2021-09-07
+
     + [使用CF-workers代理Github](https://nicelee.top/blog/2021/08/25/cloudflare-workers-github-proxy/)   
     :point_up_2:2021-08-25
 
     + [备忘录 freenom注册免费域名要点](https://nicelee.top/blog/2021/08/23/freenom-domain/)   
     :point_up_2:2021-08-23
-
-    + [使用CF-workers搭建短网址服务](https://nicelee.top/blog/2021/08/23/cloudflare-workers-short-url/)   
-    :point_up_2:2021-08-23
-
-    + [使用CF-workers打造私人加密DNS](https://nicelee.top/blog/2021/08/22/cloudflare-workers-doh-proxy/)   
-    :point_up_2:2021-08-22
 
 
 
