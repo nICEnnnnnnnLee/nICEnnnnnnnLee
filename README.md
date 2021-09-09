@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [备忘录 Azure单页应用授权 + keeweb Web应用部署问题](https://nicelee.top/blog/2021/09/08/keepass-onedrive/)   
+    :point_up_2:2021-09-08
+
     + [【资源】关于免费的域名邮箱托管](https://nicelee.top/blog/2021/09/07/email-host/)   
     :point_up_2:2021-09-07
 
@@ -16,9 +19,6 @@
 
     + [使用CF-workers代理Github](https://nicelee.top/blog/2021/08/25/cloudflare-workers-github-proxy/)   
     :point_up_2:2021-08-25
-
-    + [备忘录 freenom注册免费域名要点](https://nicelee.top/blog/2021/08/23/freenom-domain/)   
-    :point_up_2:2021-08-23
 
 
 
@@ -43,7 +43,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![538 stars](https://img.shields.io/badge/Stars-538-green)
+    ![540 stars](https://img.shields.io/badge/Stars-540-green)
     ![77 forks](https://img.shields.io/badge/Forks-77-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
