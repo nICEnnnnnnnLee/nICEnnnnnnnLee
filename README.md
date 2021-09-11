@@ -8,17 +8,17 @@
 
 + Latest blog posts  
 
+    + [一个低级问题：CDN缓存暴露了我的加密配置页😳](https://nicelee.top/blog/2021/09/10/no-cdn-cache/)   
+    :point_up_2:2021-09-10
+
+    + [知识库 给图片添加数字盲水印](https://nicelee.top/blog/2021/09/10/watermark-hide-in-image/)   
+    :point_up_2:2021-09-10
+
+    + [一次GitHub Action自动化发布集成部署(Android 篇)](https://nicelee.top/blog/2021/09/09/github-generate-and-release-android-apk/)   
+    :point_up_2:2021-09-09
+
     + [备忘录 Azure单页应用授权 + keeweb Web应用部署问题](https://nicelee.top/blog/2021/09/08/keepass-onedrive/)   
     :point_up_2:2021-09-08
-
-    + [【资源】关于免费的域名邮箱托管](https://nicelee.top/blog/2021/09/07/email-host/)   
-    :point_up_2:2021-09-07
-
-    + [【工具】关于邮箱app](https://nicelee.top/blog/2021/09/07/email-app/)   
-    :point_up_2:2021-09-07
-
-    + [使用CF-workers代理Github](https://nicelee.top/blog/2021/08/25/cloudflare-workers-github-proxy/)   
-    :point_up_2:2021-08-25
 
 
 
@@ -26,7 +26,7 @@
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost)   
     ![341 stars](https://img.shields.io/badge/Stars-341-green)
-    ![33 forks](https://img.shields.io/badge/Forks-33-green)  
+    ![34 forks](https://img.shields.io/badge/Forks-34-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
     + [T-VideoDownloader](https://github.com/ButterAndButterfly/T-VideoDownloader)   
@@ -43,7 +43,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![540 stars](https://img.shields.io/badge/Stars-540-green)
+    ![541 stars](https://img.shields.io/badge/Stars-541-green)
     ![77 forks](https://img.shields.io/badge/Forks-77-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
