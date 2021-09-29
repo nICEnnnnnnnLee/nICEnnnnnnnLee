@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [Python 关于斗鱼每日荧光棒礼物的领取](https://nicelee.top/blog/2021/09/28/python-douyu-danmu/)   
+    :point_up_2:2021-09-28
+
     + [Python 关于检查域名证书是否过期遇到的问题](https://nicelee.top/blog/2021/09/14/python-https-cert/)   
     :point_up_2:2021-09-14
 
@@ -17,15 +20,12 @@
     + [知识库 给图片添加数字盲水印](https://nicelee.top/blog/2021/09/10/watermark-hide-in-image/)   
     :point_up_2:2021-09-10
 
-    + [一次GitHub Action自动化发布集成部署(Android 篇)](https://nicelee.top/blog/2021/09/09/github-generate-and-release-android-apk/)   
-    :point_up_2:2021-09-09
-
 
 
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost)   
-    ![340 stars](https://img.shields.io/badge/Stars-340-green)
+    ![342 stars](https://img.shields.io/badge/Stars-342-green)
     ![35 forks](https://img.shields.io/badge/Forks-35-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
@@ -43,12 +43,12 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![559 stars](https://img.shields.io/badge/Stars-559-green)
+    ![560 stars](https://img.shields.io/badge/Stars-560-green)
     ![77 forks](https://img.shields.io/badge/Forks-77-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
-    ![264 stars](https://img.shields.io/badge/Stars-264-green)
+    ![266 stars](https://img.shields.io/badge/Stars-266-green)
     ![44 forks](https://img.shields.io/badge/Forks-44-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行
     
