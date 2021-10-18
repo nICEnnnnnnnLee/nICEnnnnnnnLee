@@ -8,16 +8,16 @@
 
 + Latest blog posts  
 
+    + [Windows下cmd脚本关闭进程和服务](https://nicelee.top/blog/2021/10/17/win-stop-service/)   
+    :point_up_2:2021-10-17
+
+    + [Java 爬虫练习-bilibili视频下载 补充](https://nicelee.top/blog/2021/10/17/java-spider-bilibili-down-7/)   
+    :point_up_2:2021-10-17
+
     + [Webpack Plugin制作7-做一个自定义类型的loader](https://nicelee.top/blog/2021/10/14/webpack-diy-plugins-and-loaders-7/)   
     :point_up_2:2021-10-14
 
     + [Webpack Plugin制作6-修改其它插件的配置](https://nicelee.top/blog/2021/10/13/webpack-diy-plugins-and-loaders-6/)   
-    :point_up_2:2021-10-13
-
-    + [Webpack Plugin制作5-与其它插件进行交互](https://nicelee.top/blog/2021/10/13/webpack-diy-plugins-and-loaders-5/)   
-    :point_up_2:2021-10-13
-
-    + [Webpack Plugin制作4-在index.html里添加一条备注](https://nicelee.top/blog/2021/10/13/webpack-diy-plugins-and-loaders-4/)   
     :point_up_2:2021-10-13
 
 
@@ -43,13 +43,13 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![572 stars](https://img.shields.io/badge/Stars-572-green)
+    ![573 stars](https://img.shields.io/badge/Stars-573-green)
     ![79 forks](https://img.shields.io/badge/Forks-79-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
-    ![274 stars](https://img.shields.io/badge/Stars-274-green)
-    ![44 forks](https://img.shields.io/badge/Forks-44-green)  
+    ![276 stars](https://img.shields.io/badge/Stars-276-green)
+    ![45 forks](https://img.shields.io/badge/Forks-45-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder)   
