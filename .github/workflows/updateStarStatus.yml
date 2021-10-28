@@ -11,6 +11,8 @@ on:
     # # Trigger only when src/** changes
     #   - "README_template.md"
     #   - "config.json"
+  # 请将该文件放到默认分支,因为schedule只在默认分支生效
+  # https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions#onschedule
   schedule: 
        - cron: '1 0 * * *'
 
