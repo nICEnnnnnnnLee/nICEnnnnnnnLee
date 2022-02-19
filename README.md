@@ -25,8 +25,8 @@
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost)   
-    ![341 stars](https://img.shields.io/badge/Stars-341-green)
-    ![37 forks](https://img.shields.io/badge/Forks-37-green)  
+    ![366 stars](https://img.shields.io/badge/Stars-366-green)
+    ![40 forks](https://img.shields.io/badge/Forks-40-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
     + [T-VideoDownloader](https://github.com/ButterAndButterfly/T-VideoDownloader)   
@@ -36,25 +36,25 @@
     
     + [GithubTools](https://github.com/ButterAndButterfly/GithubTools)   
     ![3 stars](https://img.shields.io/badge/Stars-3-green)
-    ![3 forks](https://img.shields.io/badge/Forks-3-green)  
+    ![4 forks](https://img.shields.io/badge/Forks-4-green)  
     目标是创建会刷新的ReadMe首页！    在这里，你可以得到Github star/fork总数图标, 项目star历史曲线，star数最多的前N个Repo信息...
     
 
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![583 stars](https://img.shields.io/badge/Stars-583-green)
-    ![81 forks](https://img.shields.io/badge/Forks-81-green)  
+    ![694 stars](https://img.shields.io/badge/Stars-694-green)
+    ![90 forks](https://img.shields.io/badge/Forks-90-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
-    ![279 stars](https://img.shields.io/badge/Stars-279-green)
-    ![46 forks](https://img.shields.io/badge/Forks-46-green)  
+    ![336 stars](https://img.shields.io/badge/Stars-336-green)
+    ![56 forks](https://img.shields.io/badge/Forks-56-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder)   
-    ![105 stars](https://img.shields.io/badge/Stars-105-green)
-    ![16 forks](https://img.shields.io/badge/Forks-16-green)  
+    ![126 stars](https://img.shields.io/badge/Stars-126-green)
+    ![18 forks](https://img.shields.io/badge/Forks-18-green)  
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
     + [AcFunDown](https://github.com/nICEnnnnnnnLee/AcFunDown)   
