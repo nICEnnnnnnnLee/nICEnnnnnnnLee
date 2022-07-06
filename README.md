@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [Windows下常用快捷键记录](https://nicelee.top/blog/2022/07/05/win-key-shortcut/)   
+    :point_up_2:2022-07-05
+
     + [通过书签来获取视频地址或其它数据](https://nicelee.top/blog/2022/06/14/js-bookmarks/)   
     :point_up_2:2022-06-14
 
@@ -16,9 +19,6 @@
 
     + [Windows下创建/运行服务或者计划任务](https://nicelee.top/blog/2022/05/14/win-plan-andservice/)   
     :point_up_2:2022-05-14
-
-    + [关于TLS加密实现中不可忽略的部分：校验证书的域名](https://nicelee.top/blog/2021/10/25/hostname-verify-on-ssl-socket/)   
-    :point_up_2:2021-10-25
 
 
 
@@ -43,17 +43,17 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![793 stars](https://img.shields.io/badge/Stars-793-green)
-    ![103 forks](https://img.shields.io/badge/Forks-103-green)  
+    ![799 stars](https://img.shields.io/badge/Stars-799-green)
+    ![104 forks](https://img.shields.io/badge/Forks-104-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
-    ![401 stars](https://img.shields.io/badge/Stars-401-green)
+    ![402 stars](https://img.shields.io/badge/Stars-402-green)
     ![63 forks](https://img.shields.io/badge/Forks-63-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder)   
-    ![143 stars](https://img.shields.io/badge/Stars-143-green)
+    ![144 stars](https://img.shields.io/badge/Stars-144-green)
     ![21 forks](https://img.shields.io/badge/Forks-21-green)  
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
