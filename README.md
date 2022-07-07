@@ -36,7 +36,7 @@
     
     + [GithubTools](https://github.com/ButterAndButterfly/GithubTools)   
     ![5 stars](https://img.shields.io/badge/Stars-5-green)
-    ![5 forks](https://img.shields.io/badge/Forks-5-green)  
+    ![6 forks](https://img.shields.io/badge/Forks-6-green)  
     目标是创建会刷新的ReadMe首页！    在这里，你可以得到Github star/fork总数图标, 项目star历史曲线，star数最多的前N个Repo信息...
     
 
