@@ -8,24 +8,24 @@
 
 + Latest blog posts  
 
+    + [备忘录 ffmpeg去水印功能delogo的使用](https://nicelee.top/blog/2022/07/16/ffmpeg-delogo-notes/)   
+    :point_up_2:2022-07-16
+
+    + [备忘录 关于正则匹配的一些笔记](https://nicelee.top/blog/2022/07/16/regx-notes/)   
+    :point_up_2:2022-07-16
+
     + [Windows下常用快捷键记录](https://nicelee.top/blog/2022/07/05/win-key-shortcut/)   
     :point_up_2:2022-07-05
 
     + [通过书签来获取视频地址或其它数据](https://nicelee.top/blog/2022/06/14/js-bookmarks/)   
     :point_up_2:2022-06-14
 
-    + [Python 一个依赖库版本更新导致的问题](https://nicelee.top/blog/2022/05/16/python-error-caused-by-outdated-lib/)   
-    :point_up_2:2022-05-16
-
-    + [Windows下创建/运行服务或者计划任务](https://nicelee.top/blog/2022/05/14/win-plan-andservice/)   
-    :point_up_2:2022-05-14
-
 
 
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost)   
-    ![384 stars](https://img.shields.io/badge/Stars-384-green)
+    ![385 stars](https://img.shields.io/badge/Stars-385-green)
     ![44 forks](https://img.shields.io/badge/Forks-44-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
@@ -43,7 +43,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![805 stars](https://img.shields.io/badge/Stars-805-green)
+    ![806 stars](https://img.shields.io/badge/Stars-806-green)
     ![104 forks](https://img.shields.io/badge/Forks-104-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
