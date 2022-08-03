@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [关于字体加密的简单研究](https://nicelee.top/blog/2022/08/02/font-obfuscator/)   
+    :point_up_2:2022-08-02
+
     + [关于LOL 牛马上等马插件的开发](https://nicelee.top/blog/2022/07/26/lol-plugins/)   
     :point_up_2:2022-07-26
 
@@ -16,9 +19,6 @@
 
     + [备忘录 关于正则匹配的一些笔记](https://nicelee.top/blog/2022/07/16/regx-notes/)   
     :point_up_2:2022-07-16
-
-    + [Windows下常用快捷键记录](https://nicelee.top/blog/2022/07/05/win-key-shortcut/)   
-    :point_up_2:2022-07-05
 
 
 
