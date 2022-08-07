@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [javaagent简单使用： 为类对象添加toString方法](https://nicelee.top/blog/2022/08/05/java-agent/)   
+    :point_up_2:2022-08-05
+
     + [关于字体加密的简单研究](https://nicelee.top/blog/2022/08/02/font-obfuscator/)   
     :point_up_2:2022-08-02
 
@@ -15,9 +18,6 @@
     :point_up_2:2022-07-26
 
     + [备忘录 ffmpeg去水印功能delogo的使用](https://nicelee.top/blog/2022/07/16/ffmpeg-delogo-notes/)   
-    :point_up_2:2022-07-16
-
-    + [备忘录 关于正则匹配的一些笔记](https://nicelee.top/blog/2022/07/16/regx-notes/)   
     :point_up_2:2022-07-16
 
 
