@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [电源键失灵之后，Android手机的日常使用](https://nicelee.top/blog/2022/10/18/android-daily-use-without-power-key/)   
+    :point_up_2:2022-10-18
+
     + [javaagent简单使用： 为类对象添加toString方法](https://nicelee.top/blog/2022/08/05/java-agent/)   
     :point_up_2:2022-08-05
 
@@ -16,9 +19,6 @@
 
     + [关于LOL 牛马上等马插件的开发](https://nicelee.top/blog/2022/07/26/lol-plugins/)   
     :point_up_2:2022-07-26
-
-    + [备忘录 ffmpeg去水印功能delogo的使用](https://nicelee.top/blog/2022/07/16/ffmpeg-delogo-notes/)   
-    :point_up_2:2022-07-16
 
 
 
@@ -49,7 +49,7 @@
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
     ![442 stars](https://img.shields.io/badge/Stars-442-green)
-    ![68 forks](https://img.shields.io/badge/Forks-68-green)  
+    ![69 forks](https://img.shields.io/badge/Forks-69-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行【维护模式，不主动新增Feature】
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder)   
