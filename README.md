@@ -8,17 +8,17 @@
 
 + Latest blog posts  
 
+    + [如何使IPv6 Only的VPS拥有IPv4能力](https://nicelee.top/blog/2022/10/22/ipv6-only-vps-tips/)   
+    :point_up_2:2022-10-22
+
+    + [【资源】关于对象存储与网络分发](https://nicelee.top/blog/2022/10/21/object-storage-distribution/)   
+    :point_up_2:2022-10-21
+
     + [电源键失灵之后，Android手机的日常使用](https://nicelee.top/blog/2022/10/18/android-daily-use-without-power-key/)   
     :point_up_2:2022-10-18
 
     + [javaagent简单使用： 为类对象添加toString方法](https://nicelee.top/blog/2022/08/05/java-agent/)   
     :point_up_2:2022-08-05
-
-    + [关于字体加密的简单研究](https://nicelee.top/blog/2022/08/02/font-obfuscator/)   
-    :point_up_2:2022-08-02
-
-    + [关于LOL 牛马上等马插件的开发](https://nicelee.top/blog/2022/07/26/lol-plugins/)   
-    :point_up_2:2022-07-26
 
 
 
@@ -43,8 +43,8 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![884 stars](https://img.shields.io/badge/Stars-884-green)
-    ![112 forks](https://img.shields.io/badge/Forks-112-green)  
+    ![885 stars](https://img.shields.io/badge/Stars-885-green)
+    ![113 forks](https://img.shields.io/badge/Forks-113-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
