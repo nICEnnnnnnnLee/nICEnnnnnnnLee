@@ -8,17 +8,17 @@
 
 + Latest blog posts  
 
+    + [Rust 入门时容易迷惑的技术细节(macro篇)](https://nicelee.top/blog/2022/11/27/rust-sth-about-marco/)   
+    :point_up_2:2022-11-27
+
+    + [Rust 入门时容易迷惑的技术细节(trait篇)](https://nicelee.top/blog/2022/11/27/rust-sth-about-trait/)   
+    :point_up_2:2022-11-27
+
     + [Rust 使用wasm实现path签名sign](https://nicelee.top/blog/2022/11/25/rust-wasm-digest/)   
     :point_up_2:2022-11-25
 
     + [Rust 比较时差大小犯的错误😳](https://nicelee.top/blog/2022/11/24/rust-compare-unsigned/)   
     :point_up_2:2022-11-24
-
-    + [Rust 交叉编译](https://nicelee.top/blog/2022/11/23/rust-cross-compile/)   
-    :point_up_2:2022-11-23
-
-    + [Rust 利用HTTPS WebSocket通道转发流量](https://nicelee.top/blog/2022/11/15/rust-async-websocket/)   
-    :point_up_2:2022-11-15
 
 
 
@@ -43,7 +43,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![914 stars](https://img.shields.io/badge/Stars-914-green)
+    ![916 stars](https://img.shields.io/badge/Stars-916-green)
     ![115 forks](https://img.shields.io/badge/Forks-115-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
