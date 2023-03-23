@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [备忘录 Git 忽略对Versioned文件的修改](https://nicelee.top/blog/2023/03/22/git-ignore-versioned-file-changes/)   
+    :point_up_2:2023-03-22
+
     + [关于Cloudflare CDN与 Zero Trust tunnel与 WARP](https://nicelee.top/blog/2023/02/25/cloudflare-cdn-tunnel-warp/)   
     :point_up_2:2023-02-25
 
@@ -16,9 +19,6 @@
 
     + [Go 在Web框架中嵌入伪装数据流](https://nicelee.top/blog/2023/02/01/go-http-hijack/)   
     :point_up_2:2023-02-01
-
-    + [备忘录 关于tauri的二三事](https://nicelee.top/blog/2023/01/03/tauri-demo/)   
-    :point_up_2:2023-01-03
 
 
 
@@ -44,7 +44,7 @@
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
     ![1022 stars](https://img.shields.io/badge/Stars-1022-green)
-    ![126 forks](https://img.shields.io/badge/Forks-126-green)  
+    ![127 forks](https://img.shields.io/badge/Forks-127-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
