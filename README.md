@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [备忘录 Git 忽略SSL证书检查](https://nicelee.top/blog/2023/08/10/git-ignore-ssl-cert-err/)   
+    :point_up_2:2023-08-10
+
     + [备忘录 Git 忽略对Versioned文件的修改](https://nicelee.top/blog/2023/03/22/git-ignore-versioned-file-changes/)   
     :point_up_2:2023-03-22
 
@@ -16,9 +19,6 @@
 
     + [Windows下打开文件夹的加速技巧](https://nicelee.top/blog/2023/02/03/win-speed-up/)   
     :point_up_2:2023-02-03
-
-    + [Go 在Web框架中嵌入伪装数据流](https://nicelee.top/blog/2023/02/01/go-http-hijack/)   
-    :point_up_2:2023-02-01
 
 
 
@@ -43,7 +43,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![1208 stars](https://img.shields.io/badge/Stars-1208-green)
+    ![1211 stars](https://img.shields.io/badge/Stars-1211-green)
     ![144 forks](https://img.shields.io/badge/Forks-144-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔
     
@@ -58,7 +58,7 @@
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
     + [AcFunDown](https://github.com/nICEnnnnnnnLee/AcFunDown)   
-    ![54 stars](https://img.shields.io/badge/Stars-54-green)
+    ![55 stars](https://img.shields.io/badge/Stars-55-green)
     ![6 forks](https://img.shields.io/badge/Forks-6-green)  
     包含PC端UI界面的A站 视频下载器。支持收藏夹、UP主视频批量下载 😳仅供交流学习使用喔
     
