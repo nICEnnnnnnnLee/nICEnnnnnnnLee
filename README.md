@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [备忘录 如何在Firefox Android上使用扩展插件](https://nicelee.top/blog/2023/08/20/addons-firefox-android/)   
+    :point_up_2:2023-08-20
+
     + [备忘录 Git 忽略SSL证书检查](https://nicelee.top/blog/2023/08/10/git-ignore-ssl-cert-err/)   
     :point_up_2:2023-08-10
 
@@ -16,9 +19,6 @@
 
     + [关于Cloudflare CDN与 Zero Trust tunnel与 WARP](https://nicelee.top/blog/2023/02/25/cloudflare-cdn-tunnel-warp/)   
     :point_up_2:2023-02-25
-
-    + [Windows下打开文件夹的加速技巧](https://nicelee.top/blog/2023/02/03/win-speed-up/)   
-    :point_up_2:2023-02-03
 
 
 
