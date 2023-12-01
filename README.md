@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [浏览器是怎样访问支持HTTP3协议的网站的？](https://nicelee.top/blog/2023/11/29/how-explorer-knows-the-website-support-http3/)   
+    :point_up_2:2023-11-29
+
     + [备忘录 如何在Firefox Android上使用扩展插件](https://nicelee.top/blog/2023/08/20/addons-firefox-android/)   
     :point_up_2:2023-08-20
 
@@ -16,9 +19,6 @@
 
     + [备忘录 Git 忽略对Versioned文件的修改](https://nicelee.top/blog/2023/03/22/git-ignore-versioned-file-changes/)   
     :point_up_2:2023-03-22
-
-    + [关于Cloudflare CDN与 Zero Trust tunnel与 WARP](https://nicelee.top/blog/2023/02/25/cloudflare-cdn-tunnel-warp/)   
-    :point_up_2:2023-02-25
 
 
 
@@ -43,12 +43,12 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![1470 stars](https://img.shields.io/badge/Stars-1470-green)
-    ![162 forks](https://img.shields.io/badge/Forks-162-green)  
+    ![1476 stars](https://img.shields.io/badge/Stars-1476-green)
+    ![165 forks](https://img.shields.io/badge/Forks-165-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
-    ![664 stars](https://img.shields.io/badge/Stars-664-green)
+    ![665 stars](https://img.shields.io/badge/Stars-665-green)
     ![96 forks](https://img.shields.io/badge/Forks-96-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行【维护模式，不主动新增Feature】
     
