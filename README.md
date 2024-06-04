@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [备忘录 在headless服务器上运行GUI程序，并通过浏览器访问控制](https://nicelee.top/blog/2024/02/24/headless-vnc-browser/)   
+    :point_up_2:2024-02-24
+
     + [备忘录 Git CA证书设置](https://nicelee.top/blog/2024/01/25/git-ca-err/)   
     :point_up_2:2024-01-25
 
@@ -16,9 +19,6 @@
 
     + [备忘录 如何在Firefox Android上使用扩展插件](https://nicelee.top/blog/2023/08/20/addons-firefox-android/)   
     :point_up_2:2023-08-20
-
-    + [备忘录 Git 忽略SSL证书检查](https://nicelee.top/blog/2023/08/10/git-ignore-ssl-cert-err/)   
-    :point_up_2:2023-08-10
 
 
 
@@ -43,12 +43,12 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![2061 stars](https://img.shields.io/badge/Stars-2061-green)
+    ![2063 stars](https://img.shields.io/badge/Stars-2063-green)
     ![219 forks](https://img.shields.io/badge/Forks-219-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
-    ![743 stars](https://img.shields.io/badge/Stars-743-green)
+    ![744 stars](https://img.shields.io/badge/Stars-744-green)
     ![101 forks](https://img.shields.io/badge/Forks-101-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行【维护模式，不主动新增Feature】
     
