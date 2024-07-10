@@ -8,17 +8,17 @@
 
 + Latest blog posts  
 
-    + [备忘录 在headless服务器上运行GUI程序，并通过浏览器访问控制](https://nicelee.top/blog/2024/02/24/headless-vnc-browser/)   
-    :point_up_2:2024-02-24
+    + [备忘录 jpackage 关于国际/本地化的坑(四)](https://nicelee.top/blog/2024/07/08/jpackage-4-locale/)   
+    :point_up_2:2024-07-08
 
-    + [备忘录 Git CA证书设置](https://nicelee.top/blog/2024/01/25/git-ca-err/)   
-    :point_up_2:2024-01-25
+    + [备忘录 jpackage 保存安装目录和下载目录(三)](https://nicelee.top/blog/2024/07/07/jpackage-3-save-install-dir-download-dir/)   
+    :point_up_2:2024-07-07
 
-    + [浏览器是怎样访问支持HTTP3协议的网站的？](https://nicelee.top/blog/2023/11/29/how-explorer-knows-the-website-support-http3/)   
-    :point_up_2:2023-11-29
+    + [备忘录 jpackage 修改jar包所在位置(二)](https://nicelee.top/blog/2024/07/06/jpackage-2-change-jar-path/)   
+    :point_up_2:2024-07-06
 
-    + [备忘录 如何在Firefox Android上使用扩展插件](https://nicelee.top/blog/2023/08/20/addons-firefox-android/)   
-    :point_up_2:2023-08-20
+    + [备忘录 jpackage 的简单使用(一)](https://nicelee.top/blog/2024/07/05/jpackage-1-intro/)   
+    :point_up_2:2024-07-05
 
 
 
@@ -43,7 +43,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![2201 stars](https://img.shields.io/badge/Stars-2201-green)
+    ![2204 stars](https://img.shields.io/badge/Stars-2204-green)
     ![233 forks](https://img.shields.io/badge/Forks-233-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
