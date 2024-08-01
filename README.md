@@ -8,17 +8,17 @@
 
 + Latest blog posts  
 
+    + [【资源】通过注册微信公众测试号推送消息](https://nicelee.top/blog/2024/07/29/wechat-push/)   
+    :point_up_2:2024-07-29
+
+    + [【资源】关于Cloudflare CDN 优选IP](https://nicelee.top/blog/2024/07/26/cloudflare-better-ips/)   
+    :point_up_2:2024-07-26
+
+    + [备忘录 jpackage 关于其它(五)](https://nicelee.top/blog/2024/07/10/jpackage-5-tips/)   
+    :point_up_2:2024-07-10
+
     + [备忘录 jpackage 关于国际/本地化的坑(四)](https://nicelee.top/blog/2024/07/08/jpackage-4-locale/)   
     :point_up_2:2024-07-08
-
-    + [备忘录 jpackage 保存安装目录和下载目录(三)](https://nicelee.top/blog/2024/07/07/jpackage-3-save-install-dir-download-dir/)   
-    :point_up_2:2024-07-07
-
-    + [备忘录 jpackage 修改jar包所在位置(二)](https://nicelee.top/blog/2024/07/06/jpackage-2-change-jar-path/)   
-    :point_up_2:2024-07-06
-
-    + [备忘录 jpackage 的简单使用(一)](https://nicelee.top/blog/2024/07/05/jpackage-1-intro/)   
-    :point_up_2:2024-07-05
 
 
 
@@ -43,7 +43,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![2269 stars](https://img.shields.io/badge/Stars-2269-green)
+    ![2271 stars](https://img.shields.io/badge/Stars-2271-green)
     ![242 forks](https://img.shields.io/badge/Forks-242-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
