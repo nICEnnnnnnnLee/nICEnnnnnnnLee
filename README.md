@@ -8,17 +8,17 @@
 
 + Latest blog posts  
 
+    + [备忘录 使用Gpg为git的commit签名](https://nicelee.top/blog/2024/08/19/gpg-sign-git/)   
+    :point_up_2:2024-08-19
+
+    + [备忘录 通过fastly镜像整个Github Pages](https://nicelee.top/blog/2024/08/18/fastly-mirror-github-pages/)   
+    :point_up_2:2024-08-18
+
     + [备忘录 通过WebRTC获取客户端真实IP](https://nicelee.top/blog/2024/08/11/get-ip-by-webrtc/)   
     :point_up_2:2024-08-11
 
     + [【资源】通过注册微信公众测试号推送消息](https://nicelee.top/blog/2024/07/29/wechat-push/)   
     :point_up_2:2024-07-29
-
-    + [【资源】关于Cloudflare CDN 优选IP](https://nicelee.top/blog/2024/07/26/cloudflare-better-ips/)   
-    :point_up_2:2024-07-26
-
-    + [备忘录 jpackage 关于其它(五)](https://nicelee.top/blog/2024/07/10/jpackage-5-tips/)   
-    :point_up_2:2024-07-10
 
 
 
@@ -43,13 +43,13 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![2396 stars](https://img.shields.io/badge/Stars-2396-green)
+    ![2400 stars](https://img.shields.io/badge/Stars-2400-green)
     ![249 forks](https://img.shields.io/badge/Forks-249-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
     ![768 stars](https://img.shields.io/badge/Stars-768-green)
-    ![107 forks](https://img.shields.io/badge/Forks-107-green)  
+    ![108 forks](https://img.shields.io/badge/Forks-108-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行【维护模式，不主动新增Feature】
     
     + [LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder)   
