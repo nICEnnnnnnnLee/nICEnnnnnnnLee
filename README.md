@@ -8,17 +8,17 @@
 
 + Latest blog posts  
 
+    + [使用CF Worker检测TLS证书的失败尝试(JS篇)](https://nicelee.top/blog/2024/09/16/fail-attempts-on-cf-worker-js/)   
+    :point_up_2:2024-09-16
+
+    + [使用CF Worker检测TLS证书的失败尝试(Python篇)](https://nicelee.top/blog/2024/09/16/fail-attempts-on-cf-worker-py/)   
+    :point_up_2:2024-09-16
+
+    + [Go 如何在http handler中获取client hello的原始数据](https://nicelee.top/blog/2024/08/21/go-https-client-hello/)   
+    :point_up_2:2024-08-21
+
     + [备忘录 使用Gpg为git的commit签名](https://nicelee.top/blog/2024/08/19/gpg-sign-git/)   
     :point_up_2:2024-08-19
-
-    + [备忘录 通过fastly镜像整个Github Pages](https://nicelee.top/blog/2024/08/18/fastly-mirror-github-pages/)   
-    :point_up_2:2024-08-18
-
-    + [备忘录 通过WebRTC获取客户端真实IP](https://nicelee.top/blog/2024/08/11/get-ip-by-webrtc/)   
-    :point_up_2:2024-08-11
-
-    + [【资源】通过注册微信公众测试号推送消息](https://nicelee.top/blog/2024/07/29/wechat-push/)   
-    :point_up_2:2024-07-29
 
 
 
@@ -43,7 +43,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![2488 stars](https://img.shields.io/badge/Stars-2488-green)
+    ![2494 stars](https://img.shields.io/badge/Stars-2494-green)
     ![252 forks](https://img.shields.io/badge/Forks-252-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
