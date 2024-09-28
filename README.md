@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [备忘录 关于Firefox的二三事(二)](https://nicelee.top/blog/2024/09/27/sth-about-mozilla-firefox-2/)   
+    :point_up_2:2024-09-27
+
     + [使用CF Worker检测TLS证书的失败尝试(JS篇)](https://nicelee.top/blog/2024/09/16/fail-attempts-on-cf-worker-js/)   
     :point_up_2:2024-09-16
 
@@ -16,9 +19,6 @@
 
     + [Go 如何在http handler中获取client hello的原始数据](https://nicelee.top/blog/2024/08/21/go-https-client-hello/)   
     :point_up_2:2024-08-21
-
-    + [备忘录 使用Gpg为git的commit签名](https://nicelee.top/blog/2024/08/19/gpg-sign-git/)   
-    :point_up_2:2024-08-19
 
 
 
@@ -48,7 +48,7 @@
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
-    ![777 stars](https://img.shields.io/badge/Stars-777-green)
+    ![778 stars](https://img.shields.io/badge/Stars-778-green)
     ![107 forks](https://img.shields.io/badge/Forks-107-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行【维护模式，不主动新增Feature】
     
