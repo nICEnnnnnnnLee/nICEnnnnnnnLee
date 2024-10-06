@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [备忘录 使用CF Access管理Pages等受控页面的访问(未绑卡)](https://nicelee.top/blog/2024/10/05/cf-access-policy/)   
+    :point_up_2:2024-10-05
+
     + [备忘录 关于Firefox的二三事(二)](https://nicelee.top/blog/2024/09/27/sth-about-mozilla-firefox-2/)   
     :point_up_2:2024-09-27
 
@@ -16,9 +19,6 @@
 
     + [使用CF Worker检测TLS证书的失败尝试(Python篇)](https://nicelee.top/blog/2024/09/16/fail-attempts-on-cf-worker-py/)   
     :point_up_2:2024-09-16
-
-    + [Go 如何在http handler中获取client hello的原始数据](https://nicelee.top/blog/2024/08/21/go-https-client-hello/)   
-    :point_up_2:2024-08-21
 
 
 
@@ -43,12 +43,12 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![2551 stars](https://img.shields.io/badge/Stars-2551-green)
+    ![2554 stars](https://img.shields.io/badge/Stars-2554-green)
     ![256 forks](https://img.shields.io/badge/Forks-256-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
-    ![779 stars](https://img.shields.io/badge/Stars-779-green)
+    ![778 stars](https://img.shields.io/badge/Stars-778-green)
     ![107 forks](https://img.shields.io/badge/Forks-107-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行【维护模式，不主动新增Feature】
     
@@ -58,7 +58,7 @@
     you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
     
     + [GithubSoEasy](https://github.com/nICEnnnnnnnLee/GithubSoEasy)   
-    ![86 stars](https://img.shields.io/badge/Stars-86-green)
+    ![87 stars](https://img.shields.io/badge/Stars-87-green)
     ![29 forks](https://img.shields.io/badge/Forks-29-green)  
     使用Cloudflare Workers代理加速Github，不仅仅是下载附件
     
