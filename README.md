@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [备忘录 Serv00 php调用shell脚本](https://nicelee.top/blog/2024/10/06/serv00-php-auth/)   
+    :point_up_2:2024-10-06
+
     + [备忘录 使用CF Access管理Pages等受控页面的访问(未绑卡)](https://nicelee.top/blog/2024/10/05/cf-access-policy/)   
     :point_up_2:2024-10-05
 
@@ -15,9 +18,6 @@
     :point_up_2:2024-09-27
 
     + [使用CF Worker检测TLS证书的失败尝试(JS篇)](https://nicelee.top/blog/2024/09/16/fail-attempts-on-cf-worker-js/)   
-    :point_up_2:2024-09-16
-
-    + [使用CF Worker检测TLS证书的失败尝试(Python篇)](https://nicelee.top/blog/2024/09/16/fail-attempts-on-cf-worker-py/)   
     :point_up_2:2024-09-16
 
 
@@ -43,7 +43,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![2554 stars](https://img.shields.io/badge/Stars-2554-green)
+    ![2558 stars](https://img.shields.io/badge/Stars-2558-green)
     ![256 forks](https://img.shields.io/badge/Forks-256-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
