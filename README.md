@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [备忘录 MTU设置错误导致TCP连接异常](https://nicelee.top/blog/2024/10/25/mtp-wrong-size-freeze-my-tcp-connection/)   
+    :point_up_2:2024-10-25
+
     + [备忘录 Serv00 php调用shell脚本](https://nicelee.top/blog/2024/10/06/serv00-php-auth/)   
     :point_up_2:2024-10-06
 
@@ -16,9 +19,6 @@
 
     + [备忘录 关于Firefox的二三事(二)](https://nicelee.top/blog/2024/09/27/sth-about-mozilla-firefox-2/)   
     :point_up_2:2024-09-27
-
-    + [使用CF Worker检测TLS证书的失败尝试(JS篇)](https://nicelee.top/blog/2024/09/16/fail-attempts-on-cf-worker-js/)   
-    :point_up_2:2024-09-16
 
 
 
@@ -43,12 +43,12 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![2633 stars](https://img.shields.io/badge/Stars-2633-green)
+    ![2640 stars](https://img.shields.io/badge/Stars-2640-green)
     ![261 forks](https://img.shields.io/badge/Forks-261-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
-    ![782 stars](https://img.shields.io/badge/Stars-782-green)
+    ![783 stars](https://img.shields.io/badge/Stars-783-green)
     ![107 forks](https://img.shields.io/badge/Forks-107-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行【维护模式，不主动新增Feature】
     
@@ -59,7 +59,7 @@
     
     + [GithubSoEasy](https://github.com/nICEnnnnnnnLee/GithubSoEasy)   
     ![89 stars](https://img.shields.io/badge/Stars-89-green)
-    ![32 forks](https://img.shields.io/badge/Forks-32-green)  
+    ![33 forks](https://img.shields.io/badge/Forks-33-green)  
     使用Cloudflare Workers代理加速Github，不仅仅是下载附件
     
 
