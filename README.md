@@ -8,24 +8,24 @@
 
 + Latest blog posts  
 
+    + [Windows下通过脚本快速切换时区](https://nicelee.top/blog/2024/11/04/windows-set-time-zone/)   
+    :point_up_2:2024-11-04
+
+    + [备忘录 使用svg做favicon时需要注意的](https://nicelee.top/blog/2024/11/03/svg-with-fonts/)   
+    :point_up_2:2024-11-03
+
     + [备忘录 MTU设置错误导致TCP连接异常](https://nicelee.top/blog/2024/10/25/mtp-wrong-size-freeze-my-tcp-connection/)   
     :point_up_2:2024-10-25
 
     + [备忘录 Serv00 php调用shell脚本](https://nicelee.top/blog/2024/10/06/serv00-php-auth/)   
     :point_up_2:2024-10-06
 
-    + [备忘录 使用CF Access管理Pages等受控页面的访问(未绑卡)](https://nicelee.top/blog/2024/10/05/cf-access-policy/)   
-    :point_up_2:2024-10-05
-
-    + [备忘录 关于Firefox的二三事(二)](https://nicelee.top/blog/2024/09/27/sth-about-mozilla-firefox-2/)   
-    :point_up_2:2024-09-27
-
 
 
 + [ButterAndButterfly](https://github.com/ButterAndButterfly) STAR TOP 3
     
     + [GithubHost](https://github.com/ButterAndButterfly/GithubHost)   
-    ![394 stars](https://img.shields.io/badge/Stars-394-green)
+    ![393 stars](https://img.shields.io/badge/Stars-393-green)
     ![38 forks](https://img.shields.io/badge/Forks-38-green)  
     提供最新的GithubHost文件，解决github图片无法访问的问题。
     
@@ -43,7 +43,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![2683 stars](https://img.shields.io/badge/Stars-2683-green)
+    ![2691 stars](https://img.shields.io/badge/Stars-2691-green)
     ![263 forks](https://img.shields.io/badge/Forks-263-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
