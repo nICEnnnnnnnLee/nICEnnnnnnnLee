@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [备忘录 VPS登录推送](https://nicelee.top/blog/2024/11/30/notify-ssh-login/)   
+    :point_up_2:2024-11-30
+
     + [脚本 简单加密文件，以及Github私密repo的附件的上传下载](https://nicelee.top/blog/2024/11/06/scripts-xor-github-up-down/)   
     :point_up_2:2024-11-06
 
@@ -16,9 +19,6 @@
 
     + [备忘录 使用svg做favicon时需要注意的](https://nicelee.top/blog/2024/11/03/svg-with-fonts/)   
     :point_up_2:2024-11-03
-
-    + [备忘录 MTU设置错误导致TCP连接异常](https://nicelee.top/blog/2024/10/25/mtp-wrong-size-freeze-my-tcp-connection/)   
-    :point_up_2:2024-10-25
 
 
 
@@ -43,7 +43,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![2769 stars](https://img.shields.io/badge/Stars-2769-green)
+    ![2776 stars](https://img.shields.io/badge/Stars-2776-green)
     ![269 forks](https://img.shields.io/badge/Forks-269-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
