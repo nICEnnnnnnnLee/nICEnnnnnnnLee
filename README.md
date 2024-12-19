@@ -8,17 +8,17 @@
 
 + Latest blog posts  
 
+    + [备忘录 自动化申请证书并部署到Gcore](https://nicelee.top/blog/2024/12/17/gcore-acme-set/)   
+    :point_up_2:2024-12-17
+
+    + [备忘录 Gcore 信任自签发CA证书](https://nicelee.top/blog/2024/12/17/gcore-self-signed-ca/)   
+    :point_up_2:2024-12-17
+
     + [备忘录 VPS登录推送](https://nicelee.top/blog/2024/11/30/notify-ssh-login/)   
     :point_up_2:2024-11-30
 
     + [脚本 简单加密文件，以及Github私密repo的附件的上传下载](https://nicelee.top/blog/2024/11/06/scripts-xor-github-up-down/)   
     :point_up_2:2024-11-06
-
-    + [Windows下通过脚本快速切换时区](https://nicelee.top/blog/2024/11/04/windows-set-time-zone/)   
-    :point_up_2:2024-11-04
-
-    + [备忘录 使用svg做favicon时需要注意的](https://nicelee.top/blog/2024/11/03/svg-with-fonts/)   
-    :point_up_2:2024-11-03
 
 
 
@@ -43,12 +43,12 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![2841 stars](https://img.shields.io/badge/Stars-2841-green)
-    ![272 forks](https://img.shields.io/badge/Forks-272-green)  
+    ![2846 stars](https://img.shields.io/badge/Stars-2846-green)
+    ![273 forks](https://img.shields.io/badge/Forks-273-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
-    ![811 stars](https://img.shields.io/badge/Stars-811-green)
+    ![812 stars](https://img.shields.io/badge/Stars-812-green)
     ![112 forks](https://img.shields.io/badge/Forks-112-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行【维护模式，不主动新增Feature】
     
