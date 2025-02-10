@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [备忘录 静态博客搬家遇到的一些问题](https://nicelee.top/blog/2025/02/08/serv00-htaccess/)   
+    :point_up_2:2025-02-08
+
     + [备忘录 自动化申请证书并部署到Gcore](https://nicelee.top/blog/2024/12/17/gcore-acme-set/)   
     :point_up_2:2024-12-17
 
@@ -16,9 +19,6 @@
 
     + [备忘录 VPS登录推送](https://nicelee.top/blog/2024/11/30/notify-ssh-login/)   
     :point_up_2:2024-11-30
-
-    + [脚本 简单加密文件，以及Github私密repo的附件的上传下载](https://nicelee.top/blog/2024/11/06/scripts-xor-github-up-down/)   
-    :point_up_2:2024-11-06
 
 
 
@@ -43,8 +43,8 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![3028 stars](https://img.shields.io/badge/Stars-3028-green)
-    ![300 forks](https://img.shields.io/badge/Forks-300-green)  
+    ![3032 stars](https://img.shields.io/badge/Stars-3032-green)
+    ![301 forks](https://img.shields.io/badge/Forks-301-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
