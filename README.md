@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [备忘录 证书与CF Workers KV Storage](https://nicelee.top/blog/2025/02/13/ssl-cert-cf-kv/)   
+    :point_up_2:2025-02-13
+
     + [备忘录 静态博客搬家遇到的一些问题](https://nicelee.top/blog/2025/02/08/serv00-htaccess/)   
     :point_up_2:2025-02-08
 
@@ -16,9 +19,6 @@
 
     + [备忘录 Gcore 信任自签发CA证书](https://nicelee.top/blog/2024/12/17/gcore-self-signed-ca/)   
     :point_up_2:2024-12-17
-
-    + [备忘录 VPS登录推送](https://nicelee.top/blog/2024/11/30/notify-ssh-login/)   
-    :point_up_2:2024-11-30
 
 
 
@@ -43,12 +43,12 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![3036 stars](https://img.shields.io/badge/Stars-3036-green)
-    ![301 forks](https://img.shields.io/badge/Forks-301-green)  
+    ![3040 stars](https://img.shields.io/badge/Stars-3040-green)
+    ![302 forks](https://img.shields.io/badge/Forks-302-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
-    ![825 stars](https://img.shields.io/badge/Stars-825-green)
+    ![826 stars](https://img.shields.io/badge/Stars-826-green)
     ![116 forks](https://img.shields.io/badge/Forks-116-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行【维护模式，不主动新增Feature】
     
