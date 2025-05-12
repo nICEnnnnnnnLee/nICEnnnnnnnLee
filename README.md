@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [备忘录 关于Firefox的二三事(三)](https://nicelee.top/blog/2025/04/22/sth-about-mozilla-firefox-3/)   
+    :point_up_2:2025-04-22
+
     + [备忘录 Putty 密钥+代理的自动设置](https://nicelee.top/blog/2025/03/18/putty-2/)   
     :point_up_2:2025-03-18
 
@@ -16,9 +19,6 @@
 
     + [备忘录 证书与CF Workers KV Storage](https://nicelee.top/blog/2025/02/13/ssl-cert-cf-kv/)   
     :point_up_2:2025-02-13
-
-    + [备忘录 静态博客搬家遇到的一些问题](https://nicelee.top/blog/2025/02/08/serv00-htaccess/)   
-    :point_up_2:2025-02-08
 
 
 
@@ -59,7 +59,7 @@
     
     + [GithubSoEasy](https://github.com/nICEnnnnnnnLee/GithubSoEasy)   
     ![113 stars](https://img.shields.io/badge/Stars-113-green)
-    ![37 forks](https://img.shields.io/badge/Forks-37-green)  
+    ![38 forks](https://img.shields.io/badge/Forks-38-green)  
     使用Cloudflare Workers代理加速Github，不仅仅是下载附件
     
 
