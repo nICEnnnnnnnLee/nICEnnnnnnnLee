@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [备忘录 Location Guard(PC端)快捷使用指南](https://nicelee.top/blog/2025/05/22/location-guard-pc-instruction/)   
+    :point_up_2:2025-05-22
+
     + [备忘录 关于Firefox的二三事(三)](https://nicelee.top/blog/2025/04/22/sth-about-mozilla-firefox-3/)   
     :point_up_2:2025-04-22
 
@@ -16,9 +19,6 @@
 
     + [备忘录 htaccess进一步完善](https://nicelee.top/blog/2025/03/07/htaccess/)   
     :point_up_2:2025-03-07
-
-    + [备忘录 证书与CF Workers KV Storage](https://nicelee.top/blog/2025/02/13/ssl-cert-cf-kv/)   
-    :point_up_2:2025-02-13
 
 
 
@@ -43,7 +43,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![3413 stars](https://img.shields.io/badge/Stars-3413-green)
+    ![3414 stars](https://img.shields.io/badge/Stars-3414-green)
     ![326 forks](https://img.shields.io/badge/Forks-326-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
