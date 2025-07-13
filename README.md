@@ -8,17 +8,17 @@
 
 + Latest blog posts  
 
+    + [备忘录 使用脚本通过API上传腾讯证书](https://nicelee.top/blog/2025/07/12/tencent-ssl-cert/)   
+    :point_up_2:2025-07-12
+
+    + [本博客镜像TCP ping速度比较](https://nicelee.top/blog/2025/07/12/mirror-compare/)   
+    :point_up_2:2025-07-12
+
     + [备忘录 Location Guard(PC端)快捷使用指南](https://nicelee.top/blog/2025/05/22/location-guard-pc-instruction/)   
     :point_up_2:2025-05-22
 
     + [备忘录 关于Firefox的二三事(三)](https://nicelee.top/blog/2025/04/22/sth-about-mozilla-firefox-3/)   
     :point_up_2:2025-04-22
-
-    + [备忘录 Putty 密钥+代理的自动设置](https://nicelee.top/blog/2025/03/18/putty-2/)   
-    :point_up_2:2025-03-18
-
-    + [备忘录 htaccess进一步完善](https://nicelee.top/blog/2025/03/07/htaccess/)   
-    :point_up_2:2025-03-07
 
 
 
@@ -43,12 +43,12 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![3511 stars](https://img.shields.io/badge/Stars-3511-green)
+    ![3516 stars](https://img.shields.io/badge/Stars-3516-green)
     ![331 forks](https://img.shields.io/badge/Forks-331-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
-    ![846 stars](https://img.shields.io/badge/Stars-846-green)
+    ![847 stars](https://img.shields.io/badge/Stars-847-green)
     ![118 forks](https://img.shields.io/badge/Forks-118-green)  
     pure-java B站/Acfun/斗鱼/虎牙/快手/抖音/YY/战旗/花椒 直播视频录制。仅需Java环境即可运行【维护模式，不主动新增Feature】
     
