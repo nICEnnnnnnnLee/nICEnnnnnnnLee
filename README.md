@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [关于Service Worker拦截并替换域名的入门研究与简单实现](https://nicelee.top/blog/2025/07/24/service-worker/)   
+    :point_up_2:2025-07-24
+
     + [不吐不快的吐槽](https://nicelee.top/blog/2025/07/20/complains/)   
     :point_up_2:2025-07-20
 
@@ -15,9 +18,6 @@
     :point_up_2:2025-07-20
 
     + [备忘录 使用脚本通过API上传腾讯证书](https://nicelee.top/blog/2025/07/12/tencent-ssl-cert/)   
-    :point_up_2:2025-07-12
-
-    + [本博客镜像TCP ping速度比较](https://nicelee.top/blog/2025/07/12/mirror-compare/)   
     :point_up_2:2025-07-12
 
 
@@ -44,7 +44,7 @@
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
     ![3553 stars](https://img.shields.io/badge/Stars-3553-green)
-    ![334 forks](https://img.shields.io/badge/Forks-334-green)  
+    ![335 forks](https://img.shields.io/badge/Forks-335-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
