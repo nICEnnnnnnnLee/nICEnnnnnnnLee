@@ -8,6 +8,9 @@
 
 + Latest blog posts  
 
+    + [备忘录 使用api操纵incus切割nat小机](https://nicelee.top/blog/2025/10/16/incus-self-manage/)   
+    :point_up_2:2025-10-16
+
     + [关于Service Worker拦截并替换域名的入门研究与简单实现](https://nicelee.top/blog/2025/07/24/service-worker/)   
     :point_up_2:2025-07-24
 
@@ -16,9 +19,6 @@
 
     + [本博客镜像HTTP ping速度比较](https://nicelee.top/blog/2025/07/20/mirror-compare-http/)   
     :point_up_2:2025-07-20
-
-    + [备忘录 使用脚本通过API上传腾讯证书](https://nicelee.top/blog/2025/07/12/tencent-ssl-cert/)   
-    :point_up_2:2025-07-12
 
 
 
@@ -43,7 +43,7 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![3780 stars](https://img.shields.io/badge/Stars-3780-green)
+    ![3785 stars](https://img.shields.io/badge/Stars-3785-green)
     ![349 forks](https://img.shields.io/badge/Forks-349-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
