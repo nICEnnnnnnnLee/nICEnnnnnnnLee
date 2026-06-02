@@ -11,6 +11,8 @@ on:
     # # Trigger only when src/** changes
     #   - "README_template.md"
     #   - "config.json"
+  # 请将该文件放到默认分支,因为schedule只在默认分支生效
+  # https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions#onschedule
   schedule: 
        - cron: '1 0 * * *'
 
@@ -24,19 +26,19 @@ jobs:
 
     steps:
     - name: Checkout default branch to ./public
-      uses: actions/checkout@v2
+      uses: actions/checkout@v6
       with:
         ref: master
         path: public
 
     - name: Checkout dev branch to ./dev
-      uses: actions/checkout@v2
+      uses: actions/checkout@v6
       with:
         ref: dev
         path: dev
 
     - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v6
       with:
         python-version: ${{ matrix.python-version }}
     - name: Install dependencies
