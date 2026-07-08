@@ -4,6 +4,8 @@
 name: GitHubStarStatusUpdate
 
 on:
+  workflow_dispatch:
+    inputs: {}
   push:
     branches:
       - dev
@@ -51,7 +53,7 @@ jobs:
         
     - name: run tasks
       env:
-        MY_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        MY_GITHUB_TOKEN: ${{ secrets.FG_GITHUB_TOKEN }}
       run: |
         cd dev
         python main.py config.json
