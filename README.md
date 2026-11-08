@@ -43,8 +43,8 @@
 + [nICEnnnnnnnLee](https://github.com/nICEnnnnnnnLee) STAR TOP 4
     
     + [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)   
-    ![5359 stars](https://img.shields.io/badge/Stars-5359-green)
-    ![457 forks](https://img.shields.io/badge/Forks-457-green)  
+    ![5360 stars](https://img.shields.io/badge/Stars-5360-green)
+    ![455 forks](https://img.shields.io/badge/Forks-455-green)  
     (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳
     
     + [BilibiliLiveRecorder](https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder)   
